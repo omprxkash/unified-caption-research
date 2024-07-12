@@ -1,0 +1,12 @@
+
+
+audio url = https://cdn.assemblyai.com/upload/e18202b5-dbe9-4343-94ea-a792b90cc45f
+end point = https://api.assemblyai.com/v2/transcript
+
+
+Twin Twinkies, Tinku and Rinky, are twin siblings who studied in the same school. Tinku was excellent in studies but often scored better than his sister. Rinky was fond of studies and solved all the questions correctly. Rinku was awarded a bicycle as a prize along with other gifts. The family went out for dinner to celebrate the results of both kids. Sonu and Vani's exams are coming soon, and Sonu is worried about how he will complete his studies if he doesn't study on time. The teacher scolds Sonu for not submitting his project, but Sonu learns from his sister how to utilize time properly. The weather turns into a storm and rains are expected to happen, and the children are worried about what they will write in their exams tomorrow. Both kids went happily to appear in exams.
+
+For Youtube video enter 1 
+ENTER = 1
+ENTER THE LINK : https://www.youtube.com/watch?v=EpZb7mnMHwQ&pp=ygUSc3RvcmllcyBpbiBlbmdsaXNo
+
